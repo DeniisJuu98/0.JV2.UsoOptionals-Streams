@@ -3,6 +3,7 @@ package Ejercicio1;
 import java.io.Serializable;
 import java.util.Optional;
 
+//Creamos un objeto persona con todas las clases necesarias
 public class Persona implements Serializable {
 
     private String Nombre;
